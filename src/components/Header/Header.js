@@ -37,7 +37,7 @@ const Header = () => {
                     <li className="navItem"><Link className="navLinkStyle" to="/home">Home</Link></li>
                     <li className="navItem"><a className="navLinkStyle" href="#projects">Projects</a></li>
                     <li className="navItem"><a className="navLinkStyle" href="#blogs">Blog</a></li>
-                    <li className="navItem"><Link className="navLinkStyle" onTouchCancel="/resume">Resume</Link></li>
+                    <li className="navItem"><Link className="navLinkStyle" to="/resume">Resume</Link></li>
                     <li className="navItem"><a className="navLinkStyle" href="#contact">Contact</a></li>
                 </ul>
             </div>
