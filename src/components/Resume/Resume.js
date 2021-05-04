@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Header from '../Header/Header';
 import './Resume.css';
-import profile from '../../images/andyone--WW8jBak7bo-unsplash.jpg';
+import profile from '../../images/IMG_4572.JPG';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAccusoft, faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import { faDownload, faEnvelope, faGraduationCap, faHome, faPhoneAlt, faTasks, faTools } from '@fortawesome/free-solid-svg-icons';
